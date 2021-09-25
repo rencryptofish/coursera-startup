@@ -5,3 +5,9 @@ Startup Engineering
 by [Balaji S. Srinivasan](https://www.coursera.org/instructor/balajis) & [Vijay S. Pande](https://www.coursera.org/instructor/vijaypande)
 
 https://www.coursera.org/course/startup
+
+...
+
+###### RenCryptoFish (2021-09-25)
+
+Filtered for the articles that are "timeless", all original content can be found under /original
